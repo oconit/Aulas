@@ -1,0 +1,12 @@
+
+\.vs/Aulas/v15/Server/sqlite3/storage\.ide
+
+Aulas/bin/Debug/netcoreapp2\.0/Aula1\.runtimeconfig\.dev\.json
+
+Aulas/obj/Aula1\.csproj\.nuget\.cache
+
+*.cache
+
+*.props
+
+*.json
